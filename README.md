@@ -28,7 +28,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iamalexmenlah&show_icons=true&hide_border=true" />
+<img align="left" alt="Alex Menlah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iamalexmenlah&show_icons=true&hide_border=true" />
 
 [website]: https://alexmenlah.com
 [twitter]: https://twitter.com/iamalexmenlah
