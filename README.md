@@ -1,8 +1,8 @@
 ### Hi there, I'm [Alex Menlah][website] 👋
 
 ## I'm a Student, Developer based in Italy, parma!
-- 🥅 Goal: To become full stack web developer
-- ⚡ I have a passion for Web Development 
+- 🥅 Goal: To become full stack developer
+- ⚡ I have a passion for Ethical Hacking 
 
 ### Connect with me:
 
