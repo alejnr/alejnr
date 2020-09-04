@@ -2,7 +2,7 @@
 
 ## I'm a Student, Developer based in Italy, parma!
 - 🥅 Goal: To become full stack developer
-- ⚡ I have a passion for Ethical Hacking 
+- ⚡ I have a passion for Web Development & Ethical Hacking 
 
 ### Connect with me:
 
