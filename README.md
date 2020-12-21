@@ -4,14 +4,6 @@
 - 🥅 Goal: To become full stack web developer
 - ⚡ I have passion for Web Development & Ethical Hacking.
 
-### Connect with me:
-
-[<img align="left" alt="alexmenlah.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="iamalexmenlah | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="iamalexmenlah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][dribbble]
-[<img align="left" alt="iamalexmenlah | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 ### Languages and Tools:
 
@@ -24,6 +16,4 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 
 [website]: https://alexmenlah.com
-[twitter]: https://twitter.com/iamalexmenlah
-[instagram]: https://instagram.com/iamalexmenlah
-[dribbble]: https://dribbble.com/iamalexmenlah
+
