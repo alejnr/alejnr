@@ -1,8 +1,8 @@
 ### Hi there, I'm [Alex Menlah][website] :wave:
 
 ## I'm a Student / Web Developer based in Italy, parma!
-- :goal_net: Goal: To become full stack web developer
-- :zap: I have passion for Web Development & Ethical Hacking.
+- :goal_net: Goal: To become full stack developer
+- :zap: I have passion for Programming & Ethical Hacking.
 
 
 ### Languages and Tools:
