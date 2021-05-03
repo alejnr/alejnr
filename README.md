@@ -20,6 +20,6 @@
 
 <div>
     <h3>GitHub Analytics</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonesichili&layout=compact&langs_count=8&theme=default" data-canonical-src="https://github.com/simonesichili/github-readme-stats" >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamalexmenlah&layout=compact&langs_count=8&theme=default" data-canonical-src="https://github.com/simonesichili/github-readme-stats" >
     
 </div>
