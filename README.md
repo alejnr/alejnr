@@ -9,7 +9,7 @@
 
 - 💬 Get In Touch **I'm Available For Freelancing**
 
-- 📫 How to reach me **alexamenlah@gmail.com**
+- 📫 How to reach me **contact@alexmenlah.com**
 
 ### Languages and Tools:
 
