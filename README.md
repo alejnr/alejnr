@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **everything about Programming & Ethical Hacking.**
 
-- 👨‍💻 All of my projects are available at [https://alejnr.com/][website]
+- 👨‍💻 All of my projects are available at [https://alejnr.com/][website] !!currently down!!
 
 - 💬 Get In Touch **I'm Available For Freelancing**
 
